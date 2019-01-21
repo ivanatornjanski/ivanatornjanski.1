@@ -20,7 +20,6 @@ main ()
               {
                 s=s+A[i][j];
               }
-
     }
     printf("suma elemenata iznad glavne dijagonale je :%d, s);
     return 0;
